@@ -1,4 +1,9 @@
 ###################
+Cara Instalasi
+###################
+Clone atau download sourcenya dan extract pada folder htdocs anda
+
+###################
 What is CodeIgniter
 ###################
 
